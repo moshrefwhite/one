@@ -1,5 +1,5 @@
 this is first readme file.
 
-#one profect
+# one profect
 
-(mongard)[mongard.ir]
+[mongard](mongard.ir)
